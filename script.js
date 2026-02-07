@@ -1,4 +1,4 @@
-function getFormvalue() {
+
     //Write your code here
 	function getFormvalue(event) {
         // Prevent form from refreshing the page
@@ -19,4 +19,4 @@ function getFormvalue() {
         }
     }
 
-}
+
