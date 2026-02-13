@@ -1,10 +1,6 @@
 function getFormvalue(){
     //Write your code here
-	
-       
-       
-
-        // Access form fields
+    // Access form fields
         const fname = document.querySelector('input[name="fname"]').value.trim();
         const lname = document.querySelector('input[name="lname"]').value.trim();
 
@@ -17,7 +13,7 @@ function getFormvalue(){
         } else {
             alert(fullName);
         }
-    }
 }
+
 
 
